@@ -1,2 +1,2 @@
-# c-
-codes c++
+# c++
+apenas alguns codigos -- c++
